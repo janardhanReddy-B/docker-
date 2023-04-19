@@ -1,5 +1,5 @@
 FROM nginx
-ADD hello /usr/share/nginx/html/
+ADD hello.html /usr/share/nginx/html/
 
 
 
